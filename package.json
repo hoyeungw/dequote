@@ -44,7 +44,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hoyeungw/naivecsv.git"
+    "url": "git+https://github.com/hoyeungw/dequote.git"
   },
   "keywords": [
     "csv",
@@ -57,7 +57,7 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hoyeungw/naivecsv"
+    "url": "https://github.com/hoyeungw/dequote"
   },
-  "homepage": "https://github.com/hoyeungw/naivecsv#readme"
+  "homepage": "https://github.com/hoyeungw/dequote#readme"
 }
